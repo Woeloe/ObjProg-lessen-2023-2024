@@ -1,22 +1,16 @@
-# Objectgericht programmeren 2022-2023
-
-**Nieuw!** Er is een [modeloplossing van het project](https://github.ugent.be/Prog2/Objprog-project-2022-2023/blob/main/dominion-modeloplossing.md) ter beschikking.
-
-### Examen
-
-Meer info over het [examen](examen.md).
+# Objectgericht programmeren 
 
 ### Hoor- en werkcolleges
 
 Hoor- en werkcolleges:
-* Woensdag 11u30-12u45 Hoorcollege in Auditorium **A3**, gebouw S9 van de Sterre.
-* Woensdag 14u30-17u15 Werkcollege in PC/laptop-lokalen **Hopper**, gebouw S5 en PC-lokaal **Zuse**, gebouw S9 van de Sterre.
-* Donderdag 8u30-9u45 Hoorcollege in Auditorium **A3**, gebouw S9 van de Sterre.
+* Woensdag 11u30-12u45 Hoorcollege in Leslokaal **3.4**, gebouw S9 van de Sterre.
+* Woensdag 14u30-17u15 Werkcollege in PC/laptop-lokalen **Hopper**, gebouw S5 en **Mercator** (leslokaal 1.5), gebouw S8 van de Sterre.
+* Donderdag 8u30-9u45 Hoorcollege in Leslokaal **3.4**, gebouw S9 van de Sterre.
 Lessen worden niet gestreamd of opgenomen.
 
 ### Project
 
-Van dit vak worden 8 punten toegekend aan een [programmeerproject](project.md).
+Van dit vak worden 8 punten toegekend aan een programmeerproject.
 **Opgelet!** Dit project kan **niet** worden hernomen voor de tweede zittijd - de punten blijven staan.
 
 ### Bijkomende informatie
@@ -25,7 +19,7 @@ Van dit vak worden 8 punten toegekend aan een [programmeerproject](project.md).
 * [Software](software.md). Je dient bijkomende software te installeren om deze cursus
 te kunnen volgen - IntelliJ IDEA en SceneBuilder. In de
   [zelfstudienota's](https://inigem.ugent.be/jvlfx/jvlfx.pdf) (hoofdstuk 1) staat beschreven hoe je
-die installeert en configureert<sup>1</sup>. (De schermafbeeldingen in deze nota's zijn van vorig jaar.)
+die installeert en configureert<sup>1</sup>. (De schermafbeeldingen in deze nota's zijn niet allemaal even recent.)
   
   Ook al programmeren we nog steeds in Java, mag je niet langer BlueJ gebruiken zoals in *Programmeren*.
 
@@ -39,15 +33,15 @@ Check Ufora en je UGent-e-mailadres dagelijks.
 
 ### Taken
 
-* Lees en verwerk de zelfstudienota's [JavaFX - GUIS in Java](https://inigem.ugent.be/jvlfx/jvlfx.pdf) vóór **woensdag 8 maart 2023**.
+* Lees en verwerk de zelfstudienota's [JavaFX - GUIS in Java](https://inigem.ugent.be/jvlfx/jvlfx.pdf) vóór **woensdag 6 maart 2024**.
   De broncode en hulpbestanden voor deze nota's vind je op [https://inigem.ugent.be/javafx.html](https://inigem.ugent.be/javafx.html).
 
-* Individueel [programmeerproject](project.md).  Indienen gebeurt in 2 stappen, 
-  stap 1: **14 april** 2023, ten laatste om **17u00**, uiteindelijke versie: **5 mei** 2023, ten laatste om **17u00**.
+* Individueel programmeerproject.  Indienen gebeurt in 2 stappen, 
+  stap 1: **vrijdag 5 april** 2024, ten laatste om **17u00**, uiteindelijke versie: **vrijdag 3 mei** 2024, ten laatste om **17u00**.
 
 ### Oefeningen
 
-De opgaven voor de werkcolleges bevinden zich in een [andere Github-repository](https://github.ugent.be/Prog2/Objprog-practica-2022-2023).
+De opgaven voor de werkcolleges bevinden zich in een [andere Github-repository](https://github.ugent.be/Prog2/Objprog-practica-2023-2024).
 
 ### Lessen
 
@@ -55,19 +49,19 @@ Voor dit vak hebben we geen echt 'leerpad' - je wordt verwacht de lessen te volg
 enkele kleine oefeningen recycleren uit de leerpaden van de
 vorige jaren. Deze oefeningen helpen je de leerstof beter te begrijpen.
 
-* [Week 1](week1/week1.md) - 15/16 februari 
-* [Week 2](week2/week2.md) - 22/23 februari
-* [Week 3](week3/week3.md) - 1/2 maart
-* [Week 4](week4/week4.md) - 8/9 maart
-* [Week 5](week5/week5.md) - 15/16 maart
-* [Week 6](week6/week6.md) - 22/23 maart
-* [Week 7](week7/week7.md) - 29/30 maart
+* Week 1 - 14/15 februari 
+* Week 2 - 21/22 februari
+* Week 3 - 28/29 februari
+* Week 4 - 6/7 maart
+* Week 5 - 13/14 maart
+* Week 6 - 20/21 maart
+* Week 7 - 27/28 maart
 * (Paasreces)
-* [Week 8](week8/week8.md) - 19/20 april
-* [Week 9](week9/week9.md) - 26/27 april
-* [Week 10](week10/week10.md) - 3/4 mei
-* [Week 11](week11/week11.md) - 10/11 mei
-* [Week 12](week12/week12.md) - 17 mei (geen les op 18 mei - Hemelvaart) 
+* Week 8 - 17/18 april
+* Week 9 - 24/25 april
+* Week 10 - 2 mei (1 mei = dag v/d arbeid)
+* Week 11 - 8 mei (9 mei = hemelvaart)
+* Week 12 - 16 mei (*enkel werkcollege* - geen hoorcolleges) 
 
 ---
 #### Voetnoten
