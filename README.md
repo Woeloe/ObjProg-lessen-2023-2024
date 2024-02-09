@@ -4,7 +4,8 @@
 
 Hoor- en werkcolleges:
 * Woensdag 11u30-12u45 Hoorcollege in Leslokaal **3.4**, gebouw S9 van de Sterre.
-* Woensdag 14u30-17u15 Werkcollege in PC/laptop-lokalen **Hopper**, gebouw S5 en **Mercator** (leslokaal 1.5), gebouw S8 van de Sterre.
+* Woensdag 14u30-17u15 Werkcollege in PC/laptop-lokalen **Hopper**, gebouw S5
+  van de Sterre.
 * Donderdag 8u30-9u45 Hoorcollege in Leslokaal **3.4**, gebouw S9 van de Sterre.
 Lessen worden niet gestreamd of opgenomen.
 
@@ -14,7 +15,7 @@ Van dit vak worden 8 punten toegekend aan een programmeerproject.
 **Opgelet!** Dit project kan **niet** worden hernomen voor de tweede zittijd - de punten blijven staan.
 
 ### Bijkomende informatie
-* [Lessen / practica](lessen.md). Wanneer gaan de lessen en practica door.
+* [Lessen / oefeningen](lessen.md). Wanneer gaan de lessen en oefeningen door.
 * [Lesnota's](notas.md). Lesnota's en voorbeelden.
 * [Software](software.md). Je dient bijkomende software te installeren om deze cursus
 te kunnen volgen - IntelliJ IDEA en SceneBuilder. In de
@@ -41,7 +42,7 @@ Check Ufora en je UGent-e-mailadres dagelijks.
 
 ### Oefeningen
 
-De opgaven voor de werkcolleges bevinden zich in een [andere Github-repository](https://github.ugent.be/Prog2/Objprog-practica-2023-2024).
+De opgaven voor de werkcolleges bevinden zich in een [andere Github-repository](https://github.ugent.be/Prog2/Objprog-oefeningen-2023-2024).
 
 ### Lessen
 
@@ -49,7 +50,7 @@ Voor dit vak hebben we geen echt 'leerpad' - je wordt verwacht de lessen te volg
 enkele kleine oefeningen recycleren uit de leerpaden van de
 vorige jaren. Deze oefeningen helpen je de leerstof beter te begrijpen.
 
-* Week 1 - 14/15 februari 
+* [Week 1](week1/week1.md) - 14/15 februari 
 * Week 2 - 21/22 februari
 * Week 3 - 28/29 februari
 * Week 4 - 6/7 maart
