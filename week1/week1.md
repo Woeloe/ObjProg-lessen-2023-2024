@@ -32,7 +32,7 @@ Je moet hiervoor onvermijdelijk enkele
 nieuwe klassen/interfaces aanmaken (let op dat je daarbij *Java* selecteert, en niet Stride) en dat lijkt nogal veel 
 werk voor het luttele voordeel dat dit oplevert, maar we komen daar later op terug.
 
-### 1.2-1.3 Binnenklassen
+### 1.3-1.4 Binnenklassen
 
 **Oefening Block Dude 2** (Baseer je op de oplossing van de eerdere oefening met dezelfde naam, of gebruik onze 
 oplossing die je onderaan deze bladzijde terugvindt.)
@@ -51,9 +51,6 @@ De methode `createAt` maakt niet alleen een nieuwe actor aan, maar plaatst die m
 Plaats deze interface, en al zijn implementaties, binnen in `Grot`. Denk goed na of je hier een statische, dan wel een niet-statische
 binnenklasse zult gebruiken.
 
-**Oefening Block Dude 3** Vervang tenslotte in deze oplossing de
-binnenklassen door anonieme binnenklassen.
-
 #### Oplossingen
 
 Enkel wanneer het je zelf na een half uur nog niet lukt… (half uur per oefening!)
@@ -61,8 +58,7 @@ Enkel wanneer het je zelf na een half uur nog niet lukt… (half uur per oefenin
 * [Display](SegmentButton.java) - lees ook het commentaar onderaan de broncode
 * [Block Dude](blockdude-opl.zip?raw=true) - nuttig om deze oplossing hoe dan ook eens te bekijken, ze is 
   misschien niet helemaal dezelfde als de jouwe. (Hoeveel nieuwe klassen heb jij aangemaakt?)
-* De klasse `Grot` voor [Block Dude 2](Grot2.java) en voor
-  [Block Dude 3](Grot3.java).
+* De klasse `Grot` voor [Block Dude 2](Grot2.java)
 
 #### Voetnoten
 

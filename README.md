@@ -51,7 +51,7 @@ enkele kleine oefeningen recycleren uit de leerpaden van de
 vorige jaren. Deze oefeningen helpen je de leerstof beter te begrijpen.
 
 * [Week 1](week1/week1.md) - 14/15 februari 
-* Week 2 - 21/22 februari
+* [Week 2](week2/week2.md) - 21/22 februari
 * Week 3 - 28/29 februari
 * Week 4 - 6/7 maart
 * Week 5 - 13/14 maart
