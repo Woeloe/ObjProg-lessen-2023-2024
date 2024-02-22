@@ -37,7 +37,7 @@ Check Ufora en je UGent-e-mailadres dagelijks.
 * Lees en verwerk de zelfstudienota's [JavaFX - GUIS in Java](https://inigem.ugent.be/jvlfx/jvlfx.pdf) vóór **woensdag 6 maart 2024**.
   De broncode en hulpbestanden voor deze nota's vind je op [https://inigem.ugent.be/javafx.html](https://inigem.ugent.be/javafx.html).
 
-* Individueel programmeerproject.  Indienen gebeurt in 2 stappen, 
+* Individueel programmeerproject.  De opgave zal ter beschikking staan rond ± **13 maart**. Indienen gebeurt in 2 stappen, 
   stap 1: **vrijdag 5 april** 2024, ten laatste om **17u00**, uiteindelijke versie: **vrijdag 3 mei** 2024, ten laatste om **17u00**.
 
 ### Oefeningen
@@ -52,7 +52,7 @@ vorige jaren. Deze oefeningen helpen je de leerstof beter te begrijpen.
 
 * [Week 1](week1/week1.md) - 14/15 februari 
 * [Week 2](week2/week2.md) - 21/22 februari
-* Week 3 - 28/29 februari
+* [Week 3](week3/week3.md) - 28/29 februari
 * Week 4 - 6/7 maart
 * Week 5 - 13/14 maart
 * Week 6 - 20/21 maart
