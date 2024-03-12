@@ -20,12 +20,7 @@ geen spatie bevatten. Gebruik een `BufferedReader`. Vang uitzonderingen op met e
 
 **Oefening Langste Woord 2** Zelfde oefening als versie 1, maar lees het bestand uit het *class path*.
 
-### 3.5 Het pakket java.nio.file
-
-**Oefening Langste Woord 3** Zelfde oefening als versie 1, maar lees het bestand van harde schijf. Plaats een kopie
-ergens op je computer, bijvoorbeeld in `C:\Temp` (Windows) of `/tmp` (Unix / MacOS)
-
-**Oefening Langste Woord 4** Zelfde oefening als versie **3**, maar gebruik Java streams.
+### 3.7 Eigenschapsbestanden
 
 ### 4.1 Scènes bouwen zonder FXML
 
@@ -41,7 +36,5 @@ Enkel wanneer het je zelf na een half uur nog niet lukt… (half uur per oefenin
 
 [Langste Woord 1](LangsteWoord1.java) |
 [Langste Woord 2](LangsteWoord2.java) |
-[Langste Woord 3](LangsteWoord3.java) |
-[Langste Woord 4](LangsteWoord4.java) |
 [Countdown 4](countdown4.zip?raw=true)
 

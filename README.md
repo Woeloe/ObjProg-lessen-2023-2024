@@ -54,7 +54,7 @@ vorige jaren. Deze oefeningen helpen je de leerstof beter te begrijpen.
 * [Week 2](week2/week2.md) - 21/22 februari
 * [Week 3](week3/week3.md) - 28/29 februari
 * [Week 4](week4/week4.md) - 6/7 maart
-* Week 5 - 13/14 maart
+* [Week 5](week5/week5.md) - 13/14 maart
 * Week 6 - 20/21 maart
 * Week 7 - 27/28 maart
 * (Paasreces)
