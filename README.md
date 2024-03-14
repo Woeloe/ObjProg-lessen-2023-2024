@@ -11,7 +11,7 @@ Lessen worden niet gestreamd of opgenomen.
 
 ### Project
 
-Van dit vak worden 8 punten toegekend aan een programmeerproject.
+Van dit vak worden 8 punten toegekend aan een [programmeerproject](https://github.ugent.be/prog2/Objprog-project-2023-2024).
 **Opgelet!** Dit project kan **niet** worden hernomen voor de tweede zittijd - de punten blijven staan.
 
 ### Bijkomende informatie
@@ -37,7 +37,7 @@ Check Ufora en je UGent-e-mailadres dagelijks.
 * Lees en verwerk de zelfstudienota's [JavaFX - GUIS in Java](https://inigem.ugent.be/jvlfx/jvlfx.pdf) vóór **woensdag 6 maart 2024**.
   De broncode en hulpbestanden voor deze nota's vind je op [https://inigem.ugent.be/javafx.html](https://inigem.ugent.be/javafx.html).
 
-* Individueel programmeerproject.  De opgave zal ter beschikking staan rond ± **13 maart**. Indienen gebeurt in 2 stappen, 
+* Individueel programmeerproject.  De [opgave](https://github.ugent.be/prog2/Objprog-project-2023-2024) staat reeds ter beschikking. Indienen gebeurt in 2 stappen, 
   stap 1: **vrijdag 5 april** 2024, ten laatste om **17u00**, uiteindelijke versie: **vrijdag 3 mei** 2024, ten laatste om **17u00**.
 
 ### Oefeningen
